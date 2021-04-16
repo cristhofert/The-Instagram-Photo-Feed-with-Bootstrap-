@@ -1,0 +1,17 @@
+.insta{
+    height: 35px;
+    padding-top: 10px;
+}
+.imagen-Ig {
+    display: flex;
+}
+.col-sm-4 > img{
+    width: 100%;
+}
+.botones{
+    margin-left: 43%;
+}
+a:link, a:visited, a:active, a:hover{
+    text-decoration:none;
+    color: black;
+}
